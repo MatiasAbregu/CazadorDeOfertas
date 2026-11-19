@@ -1,0 +1,6 @@
+{
+  "name": "Centralizador Inteligente de Descuentos",
+  "description": "Plataforma centralizadora de promociones y cupones de comida rápida (McDonald's, Burger King, Mostaza) con arquitectura MVC en C# ASP.NET, MySQL, React y pipeline de extracción inteligente con LLM y SPEC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
